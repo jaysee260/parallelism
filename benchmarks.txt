@@ -1,0 +1,9 @@
+per request latency: 3 second(s) | 10 requests | in sequence
+total processing time: 30.16
+
+per request latency: 3 second(s) | 10 requests | in parallel
+total processing time: 3.06
+
+per request latency: 3 second(s) | 1000 requests | 200 concurrently
+total processing time: 16.33
+
